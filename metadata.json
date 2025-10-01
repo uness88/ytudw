@@ -1,0 +1,7 @@
+{
+  "name": "YouTube Video Clipper",
+  "description": "A tool to create short video clips from long YouTube videos directly in your browser. Add a YouTube link, select time segments, and download your compiled short video without any server-side processing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
